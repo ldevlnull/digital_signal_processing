@@ -5,7 +5,7 @@ def main():
     sequence = [0, 9, 2, 7, 4, 3]
     print('sequence: ', sequence)
     r, i = discrete_fourier_transform(sequence)
-    print('real: ', r, ' imagine: ', i)
+    print('real: ', r, ' \nimagine: ', i)
     exit(0)
 
 
